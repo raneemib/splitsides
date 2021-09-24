@@ -44,6 +44,7 @@ td {
 
 table {
   border-collapse: collapse;
+  zoom: 150%;
 }
 
 .form-group:not(.layer-2) > label {
