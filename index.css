@@ -24,7 +24,14 @@ body {
     padding: 20px;
 }
 
-#form, #reportBody {
+#form {
+    width: 70%;
+    display: block;
+    margin: 0;
+    padding: 5px;
+}
+
+#reportBody {
     width: 50%;
     display: block;
     margin: 0;
