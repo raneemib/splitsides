@@ -107,7 +107,6 @@ input[type="checkbox"] + label {
 
 .form-group:not(.layer-2) {
     padding-bottom: 7px;
-    border-bottom: 1px solid #ececec;
     margin-bottom: 7px;
 }
 
